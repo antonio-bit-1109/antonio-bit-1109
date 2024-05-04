@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20Everyone&fontSize=90)
 
-
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109)](https://github.com/antonio-bit-1109/github-readme-stats)
 
 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) mysql
@@ -25,10 +25,4 @@
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) json
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) notion 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) github 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+
