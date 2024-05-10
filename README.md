@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20World&fontSize=90)
-![Matrix Code](assets/readmegif.gif)
+
 <div>Hello EveryBody! My name is <strong> Antonio </strong> and i'm a <span>Full Stack Web Developer </span> !</div>
 
 
 
-Here some of my Git's stats 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&theme=dark&show_icons=true)](https://github.com/antonio-bit-1109/github-readme-stats) grafico stats
 
 
 Tecnology i'm handling right now:
@@ -35,5 +33,8 @@ And Other stuff i usually use in my projects:
 
 
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) json
+
+<div>Here some of my Git's stats 
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&theme=dark&show_icons=true)](https://github.com/antonio-bit-1109/github-readme-stats) grafico stats</div>
 
 
