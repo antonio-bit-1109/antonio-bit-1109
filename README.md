@@ -4,7 +4,7 @@
   <br>
  <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer.</strong> I truly fall in love with web developing, and i'm always looking for new and cool tecnologies to improve my skills. I also belive a lot in team work, i think is a very good way to significally improve in this world  </div>
 <br>
-🗣️🗣️(so don't be afraid, let's talk and share ideas!) 🗣️🗣️
+🗣️🗣️(so don't be afraid, let's talk and share ideas!) 🗣️🗣️  ----> mail me here:  [antonio.rizzuti@hotmail.com](mailto:antonio.rizzuti@hotmail.com)  <----
 <br>
 <br>
 
