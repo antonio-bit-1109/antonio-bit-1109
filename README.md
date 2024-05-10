@@ -34,7 +34,7 @@ And Other stuff i usually use in my projects:
 
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) json
 
-<div>Here some of my Git's stats 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&theme=dark&show_icons=true)](https://github.com/antonio-bit-1109/github-readme-stats) grafico stats</div>
+Here some of my Git's stats 
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&theme=dark&show_icons=true)](https://github.com/antonio-bit-1109/github-readme-stats) grafico stats
 
 
