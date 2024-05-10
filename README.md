@@ -3,8 +3,9 @@
 <div> 😁 Hello EveryBody! 😁</div>
   <br>
   <br>
- <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer</strong> </div>
-
+ <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer.</strong>. I truly fall in love with the web developer job, and i'm always looking for new and cool tecnologies to improve my skills. I also belive a lot in team work is the only way to significally improve in this world.  </div>
+<br>
+🗣️🗣️(so don't be afraid ad let's just talk!) 🗣️🗣️
 
 
 
