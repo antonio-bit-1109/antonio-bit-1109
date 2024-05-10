@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20World&fontSize=90)
 
-<div> 😁 Hello EveryBody! 😁/div>
+<div> 😁 Hello EveryBody! 😁</div>
   
-  My name is <span style="color: red "> Antonio </span> and i'm a <span>Full Stack Web Developer </span> !</div>
+ <div> My name is <span style="color: red "> Antonio </span> and i'm a <span>Full Stack Web Developer </span> !</div>
 
 
 
