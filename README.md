@@ -57,8 +57,8 @@ And Other stuff i usually use in my projects:
 -->
 
 V I S I T O R - C O U N T :
-![Visitor Count](https://profile-counter.glitch.me/antonio-bit-1109/count.svg
 
+![Visitor Count](https://profile-counter.glitch.me/antonio-bit-1109/count.svg)
 📊 **My GitHub Statistics:**
 
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00)
