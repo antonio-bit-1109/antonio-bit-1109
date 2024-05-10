@@ -47,8 +47,6 @@ And Other stuff i usually use in my projects:
 
 
 
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) json
-
 🏆 **Achievements**
 
 ![Antonio's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=antonio-bit-1109&theme=matrix)
@@ -56,12 +54,14 @@ And Other stuff i usually use in my projects:
 <!--![Codewars](https://www.codewars.com/users/Noirspider/badges/large)
 -->
 
-V I S I T O R - C O U N T :
-
-![Visitor Count](https://profile-counter.glitch.me/antonio-bit-1109/count.svg)
 📊 **My GitHub Statistics:**
 
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00)
 [![Antonio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antonio-bit-1109&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=FFFFFF)
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-bit-1109&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000&langs_count=8&border_color=00FF00&hide_border=true&size_weight=1&count_weight=1)
 
+<br>
+V I S I T O R - C O U N T :
+
+![Visitor Count](https://profile-counter.glitch.me/antonio-bit-1109/count.svg)
+<br>
