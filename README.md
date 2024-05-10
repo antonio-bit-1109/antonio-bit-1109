@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=😁Hello EveryBody!:grin:&fontSize=90)
 
 <div> 😁 Hello EveryBody! 😁</div>
   <br>
