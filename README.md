@@ -2,7 +2,7 @@
 
 <div> 😁 Hello EveryBody! 😁</div>
   
- <div> My name is <span style="color: red "> Antonio </span> and i'm a <span>Full Stack Web Developer </span> !</div>
+ <div> My name is **Antonio** and i'm a **Full Stack Web Developer** </div>
 
 
 
