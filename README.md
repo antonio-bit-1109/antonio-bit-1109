@@ -10,10 +10,10 @@
 
 
 
-<div>
+<p align="center">
   TECNOLOGIES I'M HANDLING RIGTH NOW:
-</div>
-
+</p>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
