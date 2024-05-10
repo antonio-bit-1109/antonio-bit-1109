@@ -8,7 +8,7 @@
 <br> 
 <br>
 
-You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail.com) 📩
+You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail.com?subject=Let's%20Just%20Talk!) 📩
 <br>
 <br>
 
