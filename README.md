@@ -2,13 +2,15 @@
 
 <div> 😁 Hello EveryBody! 😁</div>
   
- <div> My name is <strong>Antonio </strong> and i'm a **Full Stack Web Developer** </div>
+ <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer</strong> </div>
 
 
 
 
+<div>
+  Tecnology i'm handling right now:
+</div>
 
-Tecnology i'm handling right now:
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
