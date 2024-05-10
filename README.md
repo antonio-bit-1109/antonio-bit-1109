@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20World&fontSize=90)
 
-<div style="margin-block: 20px;"> 😁 Hello EveryBody! 😁</div>
-  
+<div> 😁 Hello EveryBody! 😁</div>
+  <br>
+  <br>
  <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer</strong> </div>
 
 
