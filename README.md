@@ -59,9 +59,9 @@
 
 📊 **My GitHub Statistics:**
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00) <br>
-[![Antonio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antonio-bit-1109&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=FFFFFF)<br>
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-bit-1109&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000&langs_count=8&border_color=00FF00&hide_border=true&size_weight=1&count_weight=1)
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00) <br>
+![Antonio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antonio-bit-1109&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=FFFFFF)<br>
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-bit-1109&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000&langs_count=8&border_color=00FF00&hide_border=true&size_weight=1&count_weight=1)
 
 <br>
 V I S I T O R - C O U N T :
