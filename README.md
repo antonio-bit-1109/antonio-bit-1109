@@ -8,6 +8,8 @@
 <br> 
 <br>
  You can mail me here:  ---> 📩 [Antonio](mailto:antonio.rizzuti@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)  📩
+
+  [Email me!](mailto:antonio.rizzuti@hotmail.com).
 <br>
 <br>
 
