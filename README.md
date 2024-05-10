@@ -6,6 +6,8 @@
  <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer.</strong>. I truly fall in love with the web developer job, and i'm always looking for new and cool tecnologies to improve my skills. I also belive a lot in team work is the only way to significally improve in this world.  </div>
 <br>
 🗣️🗣️(so don't be afraid ad let's just talk!) 🗣️🗣️
+<br>
+<br>
 
 
 
@@ -22,9 +24,9 @@
 ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) c#
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) css
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) html
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) js 
 
 These are the IDE's i can deal with right now:
