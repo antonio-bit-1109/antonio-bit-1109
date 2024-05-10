@@ -40,24 +40,24 @@
 </p>
 
 
-
+<br>
 🤝 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rizzuti/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antonio-bit-1109)
 
-
+<br>
 
 🏆 **Achievements**
 
 ![Antonio's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=antonio-bit-1109&theme=matrix)
 
-
+<br>
 
 📊 **My GitHub Statistics:**
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00)
-[![Antonio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antonio-bit-1109&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=FFFFFF)
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00) <br>
+[![Antonio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=antonio-bit-1109&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=FFFFFF)<br>
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-bit-1109&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000&langs_count=8&border_color=00FF00&hide_border=true&size_weight=1&count_weight=1)
 
 <br>
