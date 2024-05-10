@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%20World&fontSize=90)
 
-Hello EveryBody! My name is Antonio and i'm a Full Stack Web Developer!
-I also enjoy 
+<div>Hello EveryBody! My name is <strong> Antonio </strong> and i'm a <span>Full Stack Web Developer </span> !</div>
+
+
 
 Here some of my Git's stats 
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&theme=dark&show_icons=true)](https://github.com/antonio-bit-1109/github-readme-stats) grafico stats
