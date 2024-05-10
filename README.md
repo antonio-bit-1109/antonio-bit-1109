@@ -7,7 +7,7 @@
 🗣️🗣️(so don't be afraid, let's talk and share ideas!) 🗣️🗣️ 
 <br> 
 <br>
-📩 You can mail me here: [antonio.rizzuti@hotmail.com](mailto:antonio.rizzuti@hotmail.com)  📩
+📩 You can mail me here: [Antonio](mailto:antonio.rizzuti@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)  📩
 <br>
 <br>
 
