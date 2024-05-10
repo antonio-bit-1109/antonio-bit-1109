@@ -11,8 +11,16 @@
 You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail.com?subject=Let's%20Just%20Talk!) 📩
 <br>
 <br>
-
-
+## Table of Contents
+- [Technologies I'm Handling Right Now](#technologies-im-handling-right-now)
+- [Projects](#projects)
+- [How to Collaborate with Me](#how-to-collaborate-with-me)
+- [What I'm Learning](#what-im-learning)
+- [Achievements](#achievements)
+- [Open Source Contributions](#open-source-contributions)
+- [Connect with Me](#connect-with-me)
+- [My GitHub Statistics](#my-github-statistics)
+<br>
 
 <p align="center">
   TECNOLOGIES I'M HANDLING RIGTH NOW:
