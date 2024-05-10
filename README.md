@@ -51,7 +51,6 @@ And Other stuff i usually use in my projects:
 
 ![Antonio's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=antonio-bit-1109&theme=matrix)
 
-![Codewars](https://www.codewars.com/users/Noirspider/badges/large)
 
 
 📊 **My GitHub Statistics:**
