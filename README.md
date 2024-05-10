@@ -41,8 +41,15 @@ And Other stuff i usually use in my projects:
 
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) json
 
-Here some of my Git's stats 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-bit-1109&theme=dark&show_icons=true)](https://github.com/antonio-bit-1109/github-readme-stats) 
+🏆 **Achievements**
+
+![Antonio's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=antonio-bit-1109&theme=matrix)
+
+<!--![Codewars](https://www.codewars.com/users/Noirspider/badges/large)
+-->
+
+V I S I T O R - C O U N T :
+![Visitor Count](https://profile-counter.glitch.me/antonio-bit-1109/count.svg
 
 📊 **My GitHub Statistics:**
 
