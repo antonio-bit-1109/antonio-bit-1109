@@ -3,6 +3,9 @@
   <br>
   <br>
  <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer.</strong> I've truly fallen in love with web developing, and i'm always looking for new and cool tecnologies to improve my skills. I also belive a lot in team work, i think is a very good way to significally improve in this journey.  </div>
+
+<br>
+  <div> In my free time, I like to program small games in one of the programming languages I know, using it as a way to sharpen my abilities.  </div>
 <br>
 🗣️🗣️(so don't be afraid, let's talk and share ideas!) 🗣️🗣️ 
 <br> 
