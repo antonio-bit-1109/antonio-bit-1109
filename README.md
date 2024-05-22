@@ -9,7 +9,7 @@
 <br> 
 
 <br>
-  <div> In my free time, I like to program small games in one of the programming languages I know, using it as a way to sharpen my abilities.  </div>
+  <div> 🎮 In my free time, I like to program small games in one of the programming languages I know, using it as a way to sharpen my abilities. 🎮 </div>
 <br>
 
 You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail.com?subject=Let's%20Just%20Talk!) 📩
