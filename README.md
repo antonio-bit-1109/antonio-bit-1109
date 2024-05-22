@@ -12,7 +12,7 @@
   <div> 🎮 In my free time, I like to program small games in one of the programming languages I know, using it as a way to sharpen my abilities. 🎮 </div>
 <br>
 
-You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail.com?subject=So,%20What's%20App?) 📩
+You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail.com?subject=So,%20What's%20App%3F) 📩
 <br>
 <br>
 
