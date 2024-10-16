@@ -16,7 +16,7 @@ You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail
 <br>
 <br>
 
-you can check some of my works on linkedin ---> <a href=" www.linkedin.com/in/antonio-rizzuti"> 🔗 CLICK ME 🔗 <a/> 
+you can check some of my works on linkedin ---> <a href="https://www.linkedin.com/in/antonio-rizzuti/"> 🔗 CLICK ME 🔗 <a/> 
 <br>
 <p align="center">
   TECNOLOGIES I'M HANDLING RIGTH NOW:
