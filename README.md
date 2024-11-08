@@ -2,7 +2,7 @@
 <div> 😁 Hello EveryBody! 😁</div>
   <br>
   <br>
- <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer.</strong> I've truly fallen in love with web developing, and i'm always looking for new and cool tecnologies to improve my skills. I also belive a lot in team work, i think is a very good way to significally improve in this journey.  </div>
+ <div> My name is <strong>Antonio </strong> and i'm a <strong>Full Stack Web Developer.</strong> I've truly fallen in love with web developing, and i'm always looking for new and cool tecnologies to improve my skills. I also believe a lot in team work, i think is a very good way to significally improve in this journey.  </div>
  
 <br>
 🗣️🗣️(so don't be afraid, let's talk and share ideas!) 🗣️🗣️ 
