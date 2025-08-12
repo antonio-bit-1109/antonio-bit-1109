@@ -16,7 +16,7 @@ You can mail me here:  --->  📩 [CLICK ME PLS!](mailto:antonio.rizzuti@hotmail
 <br>
 <br>
 
-I'm also trying to build some games with Phaser 3 ---->  🕹️🕹️ <a href="https://antonio-bit-1109.github.io/phaser-dude-turbo-carnival/"> 🔗 CLICK ME 🔗 <a/> 
+I'm also trying to build some games with Phaser 3 ---->  <a href="https://antonio-bit-1109.github.io/phaser-dude-turbo-carnival/"> 🕹️ CLICK ME 🕹️ <a/> 
 
 you can check some of my works on linkedin ---> <a href="https://www.linkedin.com/in/antonio-rizzuti/"> 🔗 CLICK ME 🔗 <a/> 
 <br>
