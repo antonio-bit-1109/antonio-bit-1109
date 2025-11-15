@@ -86,5 +86,4 @@ you can check some of my works on linkedin ---> <a href="https://www.linkedin.co
 V I S I T O R - C O U N T :
 
 ![Visitor Count](https://profile-counter.glitch.me/antonio-bit-1109/count.svg)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <br>
